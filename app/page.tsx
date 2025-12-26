@@ -7,6 +7,7 @@ export default function Home() {
       <p>new update version 4</p>
       <p>Another update</p>
       <p>Update version 5</p>
+      <p>Update version 7</p>
     </div>
   );
 }
