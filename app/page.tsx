@@ -9,6 +9,8 @@ export default function Home() {
         <p>Another update</p>
         <p>Update version 5</p>
         <p>Update version 7</p>
+        <p>Update version 8</p>
+        <p>I am adding more updates</p>
       </div>
     </div>
   );
